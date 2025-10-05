@@ -69,7 +69,7 @@ async def start_command(client: Client, message: Message):
                         InlineKeyboardButton("ᴛᴜᴛᴏʀɪᴀʟ •", url=tutorial_link)
                     ],
                     [
-                        InlineKeyboardButton(" • ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ •", url="https://t.me/Premium_Fliix/21")
+                        InlineKeyboardButton(" • ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ •", url="https://t.me/Adult_Eternals/8")
                     ]
                 ])
             )
@@ -296,7 +296,7 @@ async def request_command(client: Client, message: Message):
         return
 
     if not is_user_premium: 
-        BUTTON_URL = "https://t.me/hanime_arena/5"
+        BUTTON_URL = "https://t.me/Adult_Eternals/8"
         reply_markup = InlineKeyboardMarkup([
             [InlineKeyboardButton("💎 Upgrade to Premium", url=BUTTON_URL)]
         ])

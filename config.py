@@ -14,7 +14,7 @@ SHORT_TUT = "https://t.me/SolveUrl/8"
 
 # Bot Configuration
 SESSION = "yato"
-TOKEN = "642712"
+TOKEN = "7985453883:AAEUddL8vtlMppAeXzHh5YhaJMBevS4Wjzc"
 API_ID = "29285243"
 API_HASH = "9324e1e962756ac511288fbf4696ddfd"
 WORKERS = 5
@@ -27,8 +27,8 @@ FSUBS = [[-1002497118580, True, 10]] # Force Subscription Channels [channel_id, 
 DB_CHANNEL =    # just put channel id dont add ""
 # Multiple Database Channels (can be set via bot settings)
 # DB_CHANNELS = {
-#     "-1002595092736": {"name": "Primary DB", "is_primary": True, "is_active": True},
-#     "-1001234567890": {"name": "Secondary DB", "is_primary": False, "is_active": True}
+#     "-1002253541678": {"name": "Primary DB", "is_primary": True, "is_active": True},
+#     "-1002165990430": {"name": "Secondary DB", "is_primary": False, "is_active": True}
 # }
 # Auto Delete Timer (seconds)
 AUTO_DEL = 300

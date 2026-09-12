@@ -8,9 +8,9 @@ OWNER_ID = 5734659617
 
 MSG_EFFECT = 5046509860389126442
 
-SHORT_URL = "linkshortify.com" # shortner url 
-SHORT_API = "b28d734c810251e0717dc303e2592f45a6f34111" 
-SHORT_TUT = "https://t.me/SolveUrl/8"
+SHORT_URL = "cuty.io" # shortner url 
+SHORT_API = "893c170511f5b77695510aa8fb3e73e79a27943c" 
+SHORT_TUT = "https://t.me/SolveShortner"
 
 # Bot Configuration
 SESSION = "yato"
@@ -19,8 +19,8 @@ API_ID = "29285243"
 API_HASH = "9324e1e962756ac511288fbf4696ddfd"
 WORKERS = 5
 
-DB_URI = "mongodb+srv://Yumeko:Yumeko@cluster0.zjqtrb4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-DB_NAME = "Yumeko"
+DB_URI = "mongodb+srv://Linda:02@cluster0.beryyr3.mongodb.net/?appName=Cluster0"
+DB_NAME = "weilai"
 
 FSUBS = [[-1002497118580, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
